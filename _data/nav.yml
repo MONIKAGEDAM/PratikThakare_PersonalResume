@@ -1,0 +1,25 @@
+- title: "Home"
+  href: "/"
+
+- title: "Background"
+  href: "/news/"
+
+- title: "Skills"
+  href : "/Skills/"
+
+- title: "Experience"
+  href: "/Experience/"
+
+- title: "Feactured Projects"
+  href: "/Feactured Projects/"
+
+- title: "Other Projects"
+  href: "/Other Projects/"
+
+- title: "Intresting Read"
+  href: "/Intresting Read/"
+
+- title: "Contact Me"
+  href: "/Contact Me/"
+
+

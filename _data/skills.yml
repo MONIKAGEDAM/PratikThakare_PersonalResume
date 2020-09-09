@@ -1,0 +1,34 @@
+languages:
+  - item: Swift
+  - item: Objective C
+  - item: Dart
+  - item: Java
+  - item: C language
+
+frameworks:
+  - item: RxSwift
+  - item: Flutter
+  - item: Cocoa
+  - item: Texture
+  - item: ARKit
+  - item: StoreKit
+  - item: AVFoundation
+  - item: CFNetwoking
+
+tools:
+  - item: Bash
+  - item: Git,GitLab & BitBucket
+  - item: TestFairy
+  - item: CI/CA 
+  - item: FastLene
+  - item: Jira 
+  - item: Slack
+  - item: Asana
+
+design:
+  - item: Sketch
+  - item: Wireframing
+  - item: Abstract
+  - item: Illustrator
+  - item: Zeplin
+ 

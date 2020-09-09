@@ -1,0 +1,47 @@
+# Site settings
+name: Pratik Thakare
+title: Pratik Thakare | iOS/ Mac Developer
+description: Organized, collaborative, and highly skilled iOS/Mac developer with professional experience in dynamic and deadline-driven work environments.
+# url: https://bchiang7.github.io/
+baseurl: ''
+email: thakare.pratikvijayrao@gmail.com
+# cover: https://bchiang7.github.io/img/og.png
+# logo: https://bchiang7.github.io/img/emojis/technologist.png
+resume: https://drive.google.com/file/d/1hISzjHDQc6oQS62cYbwMx1rIgLc2orp_/view
+social:
+  - title: email
+    url: mailto:thakare.pratikvijayrao@gmail.com
+  # - title: twitter
+  #   url: https://twitter.com/bchiang7
+  - title: instagram
+    url: https://www.instagram.com/pratikthakare__
+  - title: facebook
+    url: https://www.facebook.com/pratik.thakare1
+  # - title: github
+  #   url: https://github.com/bchiang7
+  - title: linkedin
+    url: https://www.linkedin.com/in/pratik-thakare-263935a0/?challengeId=AQHNwtrbgdzzRQAAAXM-FYGN8g5hD7h59DpUR0TysA9xg27R3h0xE1uWkMYsCU8zm3S4OPk5fVhOvMBtyj8jALwODG9qCjG_Lw&submissionId=c5338797-13b6-2016-3273-ab3e360cf862
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
+
+

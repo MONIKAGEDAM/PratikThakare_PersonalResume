@@ -1,0 +1,129 @@
+- name: POLARIS - Augmented Reality 
+  url: hhttps://apps.apple.com/us/app/polaris-ar-filters-for-earth/id1266627892
+  # code: https://github.com/bchiang7/Surf-Videos
+  description: POLARIS is an Augmented Reality app to help millennials to learn about the Earth. With a 3D Earth model to let you explore geographical data & trends like climate change, coffee consumption, employment rate, forest loss, other 10+ filters.
+  used:
+
+    - thing: Swift
+    - thing: iOS
+    - thing: ARKit
+    - thing: SceneKit
+
+- name: Max Total Security(iOS, Mac) 
+  url: https://apps.apple.com/us/app/max-total-security/id1178910943
+  # code: https://github.com/bchiang7/halcyon-site
+  description: AntiVirus is designed to provide complete protection for Mac,iOS.Max Total Security secures the device against viruses and malware, and Adware.It protects your contacts on the cloud,remove duplicate contacts,remove duplicate Photos,FB security, prevents phishing & malicious websites,also protects your WiFi from attacks.
+  used:
+
+    - thing: Swift
+    - thing: Objective C
+    - thing: C
+    - thing: SHA-1
+  
+
+- name: Disk Tuner
+  url: https://apps.apple.com/in/app/disk-tuner-system-optimizer/id905680036?mt=12
+  # code: https://github.com/bchiang7/CS3200-Project
+  description: Final project for my Database Design course at Northeastern. A simple web application that allows users to filter through a database containing Lonely Planet's <a class="underline-link" href="https://www.amazon.com/Lonely-Planets-Ultimate-Travel-Places/dp/1760342777" target="_blank">Top 500 Travel Destinations</a>. Users are able to add themselves as visitors as well as leave reviews of the destinations.
+  used:
+    - thing: Objective C
+   
+
+- name: Max Total Security- Anti-Virus
+  url: https://apps.apple.com/in/app/max-total-security-anti-virus/id977530867
+  # code: https://github.com/bchiang7/Redesign-myNEU
+  description: Max Total Security is designed to provide complete protection for your Mac.Max Total Security secures the device against viruses and malware, and even provides Device Locator in case of theft and Safe Browsing protection. Now with real-time protection on the most active directories.
+  used:
+    - thing: Jekyll
+    - thing: HTML
+    - thing: SCSS
+    - thing: JavaScript
+
+- name: Video & Photo Compressor
+  url: https://apps.apple.com/us/app/video-photo-compressor/id1361530760
+  # code: https://github.com/bchiang7/DemoWebApp
+  description: Now compress your photos and videos within seconds with Video & Photo Compressor. Just drag the videos or photos and compress with quick compression or select parameters to compress.
+  # img: weather
+  used:
+    - thing: JavaScript
+    - thing: CSS
+    - thing: Node.js
+    - thing: Express
+    - thing: Heroku
+    - thing: OpenWeatherMap API
+    - thing: Google Maps API
+
+
+- name: Instant - Lifelog Screen Time
+  url: https://apps.apple.com/app/id991690667
+  # code: https://github.com/bchiang7/v2
+  description: Your life on a dashboard! Automatically track the time you spend on your iPhone, fitness time, places, sleep and travel with Instant.Featured by Apple, TechCrunch, The New York Times,Track all your activities automatically! Now with Goals so that you can improve your sleep, productivity and fitness. 
+  used:
+    - thing: Jekyll
+    - thing: Handlebars
+    - thing: SCSS
+    - thing: JavaScript
+    - thing: Github Pages
+# - name: ScreenTime 2.0
+#   url: https://play.google.com/store/apps/details?id=com.starry.management
+#   description: App-blocking feature on <a class="underline-link" href="https://starry.com/station" target="_blank">Starry Station</a> that provides functionality for users to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their mobile phones. Learn more about ScreenTime 2.0 on <a class="underline-link" href="https://www.producthunt.com/tech/screentime-for-starry-station" target="_blank">Product Hunt</a> and the <a class="underline-link" href="https://blog.starry.com/whats-new-screentime-just-got-better-for-parents/" target="_blank">Starry Blog</a>.
+#   used:
+#   - thing: JavaScript
+#   - thing: CSS
+#   - thing: Handlebars
+#   - thing: Backbone
+#   - thing: Marionette
+#   - thing: Cordova
+
+- name: Instant - Lifelog Screen Time
+  url: https://apps.apple.com/app/id991690667
+  # code: https://github.com/bchiang7/v2
+  description: Your life on a dashboard! Automatically track the time you spend on your iPhone, fitness time, places, sleep and travel with Instant.Featured by Apple, TechCrunch, The New York Times,Track all your activities automatically! Now with Goals so that you can improve your sleep, productivity and fitness. 
+  used:
+    - thing: Jekyll
+    - thing: Handlebars
+    - thing: SCSS
+    - thing: JavaScript
+    - thing: Github Pages
+
+- name: Glluu
+  url: https://apps.apple.com/us/app/glluu/id1462762714
+  # code: https://github.com/bchiang7/react-profile/
+  description: Our vision is to build strong communities that are deeply engaged. We want to leverage the power of technology and devices to get people to connect even when they are far away from each other. Our service helps people to connect with those who are important in their lives, gives them ways to share and hence deepen emotional bonds. Our teams continuously improve the quality of service by constantly understanding what our customers require and use the power of technology to help them engage deeply within their community.
+  used:
+    - thing: JavaScript
+    - thing: React
+    - thing: CSS
+
+- name: BanyanOps
+  url: https://apps.apple.com/in/app/banyanops/id1453956263
+  # code: https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project
+  description: Banyan Security Mesh transparently deploys and continuously enforces access policies based on combination of user, device, and application context. The policies can be applied to the specific application, service or call anywhere on your multi-cloud access surface. Reduce relying on VPNs while simultaneously tightening your security posture and saving money.
+  used:
+    - thing: HTML
+    - thing: CSS
+    - thing: JavaScript
+    - thing: Node.js
+    - thing: Angular
+    - thing: Express
+    - thing: MongoDB
+
+- name: Gojek
+  url: https://apps.apple.com/in/app/gojek/id944875099
+  # code: https://github.com/nuwit/website
+  description: Gojek is an app for all your daily needs such as food delivery, transportation and payment. Beyond that Gojek has a social mission to improve the welfare and livelihoods of the Indonesian people.
+  used:
+    - thing: Jekyll
+    - thing: HTML
+    - thing: CSS
+    - thing: JavaScript
+    - thing: Bootstrap
+
+- name: GoPlay
+  url: https://apps.apple.com/in/app/goplay-watch-movies-series/id1445402611
+  # code: https://github.com/bchiang7/fontipsums
+  description: It is streaming platform for you favorite movies and series. Watch and stream all you want from Indonesian, Korean, drama, horror, and comedy.
+  used:
+    - thing: RxSwift
+    - thing: Texture
+    - thing: 

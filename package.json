@@ -1,0 +1,35 @@
+{
+  "name": "pratikthakare.com",
+  "version": "0.0.0",
+  "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bchiang7/MonikaGedam.io"
+  },
+  "homepage": "https://github.com/MonikaGedam/MonikaGedam.github.io",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp serve --watch",
+    "build": "gulp build"
+  },
+  "author": "Monika",
+  "license": "ISC",
+  "devDependencies": {
+    "@nuscout/eslint-config": "^0.2.1",
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^7.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-eslint": "^6.0.0",
+    "gulp-imagemin": "6.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "3.0.2",
+    "jest": "^26.2.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "bootstrap4": "0.0.1-security",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
